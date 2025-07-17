@@ -74,7 +74,7 @@ This will:
 
 - **Sensor**: Velodyne VLP-32C
 - **OS**: macOS (M4 Pro)
-- **RAM**: 16 GB
+- **RAM**: 24 GB
 - **Tools**: VeloView, ParaView, Wireshark
 
 ---
