@@ -1,3 +1,7 @@
-scapy
-pandas
 numpy
+pandas
+scapy
+open3d
+matplotlib
+pyshark
+protobuf
